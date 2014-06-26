@@ -18,6 +18,15 @@
 	
 }
 
+#background3 {
+	background-image: url(../images/homestead.jpg);
+	/*opacity: .5; */
+	background-size: 100%;
+	background-repeat: no-repeat;
+	
+}
+
+
 hgroup h1{
 	color: white;
 	/*opacity: .75;*/
